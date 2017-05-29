@@ -1,4 +1,4 @@
-# Iris-Classification-via-Keras-and-Scikit-learn
+# Iris classification via Keras and Scikit-learn
 
 ![Pictures](Pictures/iris.png)
 
